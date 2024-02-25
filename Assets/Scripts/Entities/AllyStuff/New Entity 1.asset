@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a8f26c630aae04abaa975edc5f8528, type: 3}
+  m_Name: New Entity 1
+  m_EditorClassIdentifier: 
+  EntityName: Veloci-cracked-tor
+  EntityIcon: {fileID: -866921738, guid: 71e2ba2243f1e504997c7adadf5fcee3, type: 3}
+  MaxHealth: 0
+  EntityHealth: {fileID: 0}
+  EntityAttack: 0
+  EntityDefense: 0
+  IsEnemy: 0
